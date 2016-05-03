@@ -1,0 +1,79 @@
+[33mcommit ba9268b66eff142471042bddac2b0314c7d529a7[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Tue May 3 21:15:57 2016 +0000
+
+    Adds S3 to production
+
+[33mcommit b5e4e65e53b11531a03300ff82c184ea0ce43423[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Tue May 3 20:38:06 2016 +0000
+
+    Revert "Adds S3 to production"
+    
+    This reverts commit 392375d7a8109befce685d82130d808d147913b1.
+
+[33mcommit 4a431a2a21bf3d553be1cc2e2e7c47578aa5d013[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Tue May 3 19:44:05 2016 +0000
+
+    Adds S3 to production
+
+[33mcommit 392375d7a8109befce685d82130d808d147913b1[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Tue May 3 18:55:56 2016 +0000
+
+    Adds S3 to production
+
+[33mcommit 864d54f0342825d8ead05024d2d4f0d9e18136b7[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Tue May 3 18:22:56 2016 +0000
+
+    Adds images
+
+[33mcommit 0905dca805aa92036ab1a0f4e7de63df46271120[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Tue May 3 17:53:33 2016 +0000
+
+    Adds associations
+
+[33mcommit 67c9eed44025621660487bffe3ddcf6db3cad425[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Sun May 1 20:28:23 2016 +0000
+
+    Creates pins scaffold, edits pins views
+
+[33mcommit d9bb8ce58efe9c3878bc6fe0c15e99b17ef21f68[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Sun May 1 19:52:55 2016 +0000
+
+    Adds and edits Devise views
+
+[33mcommit 3fbdc4926950a073316e0e93f80303ac7263dfaa[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Fri Apr 29 20:55:57 2016 +0000
+
+    Adds devise
+
+[33mcommit a95f3e7e67b84b8c19e97f20ad124bccf3ab3d53[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Fri Apr 29 20:20:53 2016 +0000
+
+    Adds bootstrap
+
+[33mcommit d48e4921e56662ae4c6a1290342ac054786cbdee[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Wed Apr 27 23:43:53 2016 +0000
+
+    Added postgres database for heroku
+
+[33mcommit cc57dcb7fd3ee4b15d5de2d5449d07cb2c9d6270[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Wed Apr 27 04:10:02 2016 +0000
+
+    2nd commit
+
+[33mcommit f13adb2b2827f1bb92c9e518b8fa6adbd1aa3f36[m
+Author: Amanda Myers <elfgirl1981@yahoo.com>
+Date:   Wed Apr 27 04:06:00 2016 +0000
+
+    Initial commit
